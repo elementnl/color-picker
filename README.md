@@ -19,7 +19,7 @@ A lightweight Chrome extension that lets you click anywhere on a web page to **p
 1. Clone this repo:
 
 ```
-git clone https://github.com/your-username/color-picker-extension.git
+git clone https://github.com/elementnl/color-picker.git
 ```
 
 2. Open `chrome://extensions` in your browser.
