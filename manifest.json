@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Varun's Color Picker",
+  "name": "Hex Color Picker",
   "version": "1.0",
-  "description": "Pick a color from any page.",
+  "description": "Use this extension to pick a color from any page and automatically copy the hex code to your clipboard.",
   "permissions": ["scripting", "activeTab", "clipboardWrite"],
   "host_permissions": ["<all_urls>"],
 
